@@ -1,2 +1,3 @@
-# FriendsOfDC610
-A list of repo's from our members, friends, and other cool stuff we find along the way. 
+# Friends of DC610
+
+- https://github.com/DAkacki/GrrCon2026 - rand0h is co-found of DC610, this repo has his GrrCon 2026 slides and extra resources. 
